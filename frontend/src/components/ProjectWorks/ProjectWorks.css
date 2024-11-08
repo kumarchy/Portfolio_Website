@@ -57,9 +57,10 @@ justify-content: center;
   font-weight: 700;
 }
 
-.project-description p{
+.project-description ul li{
   font-size: 0.8rem;
   padding: 20px 30px;
+  background-color: #6751b9;
 }
 
 .project-description H4{
