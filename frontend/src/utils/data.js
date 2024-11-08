@@ -71,13 +71,9 @@ export const PROJECT_WORKS=[
   project_no:"01",
   project_type:"FullStack Project",
   project_description:[
-    "Developed a full-stack attendance application with automated, real-time face recognition capabilities.",
-    "Built a responsive interface with React.js, providing an intuitive user experience for seamless interaction.",
-    "Created robust backend functionality with Node.js and Express.js, ensuring reliable data processing.",
-    "Used the Node.js spawn module to integrate Python scripts for optimized performance in real-time processing.",
-    "Leveraged OpenCV and dlib’s ResNet model to enable precise, high-accuracy face recognition in real time.",
-    "Employed MongoDB for secure data storage, supporting efficient data retrieval for attendance records.",
-    "Automated processes across technologies to ensure a fully streamlined attendance management system."
+    "Built an automated attendance system with OpenCV and dlib’s ResNet for accurate, real-time tracking.",
+    "Created a responsive React.js interface and robust backend with Node.js, optimizing real-time processing using Python scripts.",
+    " Employed MongoDB for secure, scalable data storage, creating a streamlined attendance solution.",
 ],
   languages_used:"React.js, Node.js, Express, Python, OpenCV, MongoDB ",
   github_src:"https://github.com/kumarchy/FullStack-Attendance-System",
