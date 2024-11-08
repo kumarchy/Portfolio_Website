@@ -58,12 +58,12 @@ justify-content: center;
 }
 
 .project-description ul li{
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 .project-description ul li::marker{
   color: #6751b9;
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 .project-description H4{
