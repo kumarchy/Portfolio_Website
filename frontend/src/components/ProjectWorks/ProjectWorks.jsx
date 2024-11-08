@@ -53,8 +53,8 @@ const ProjectWorks = () => {
                   <h2>{item.project_type}</h2>
                   {/* <p>{item.project_description}</p> */}
                   <ul>
-                    {item.project_description.map((description_point)=>
-                    <li>{description_point}</li>
+                    {item.project_description.map((description_point,idx)=>
+                    <li key={idx}>{description_point}</li>
                     )}
                   </ul>
                   <h4>{item.languages_used}</h4>
