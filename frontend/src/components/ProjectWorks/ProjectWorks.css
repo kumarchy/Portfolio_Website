@@ -57,10 +57,13 @@ justify-content: center;
   font-weight: 700;
 }
 
-.project-description ul li{
+.project-description ul li::after{
   font-size: 0.8rem;
-  padding: 20px 30px;
+  content: " ";
+  width: 0.5rem;
+  height: 0.5rem;
   background-color: #6751b9;
+  border-radius: 0.5rem;
 }
 
 .project-description H4{
