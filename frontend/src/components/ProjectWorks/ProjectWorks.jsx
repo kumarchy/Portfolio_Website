@@ -51,7 +51,12 @@ const ProjectWorks = () => {
                 <div className="project-description">
                   <h1>{item.project_no}</h1>
                   <h2>{item.project_type}</h2>
-                  <p>{item.project_description}</p>
+                  {/* <p>{item.project_description}</p> */}
+                  <ul>
+                    {item.project_description.map((description_point)=>
+                    <li>{description_point}</li>
+                    )}
+                  </ul>
                   <h4>{item.languages_used}</h4>
                   <div className="github">
                     <a

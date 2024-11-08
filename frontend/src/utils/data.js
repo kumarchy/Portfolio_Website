@@ -70,7 +70,15 @@ export const PROJECT_WORKS=[
 {
   project_no:"01",
   project_type:"FullStack Project",
-  project_description:"Developed a full-stack, real-time attendance application using face recognition for automated tracking. Built with a responsive React.js frontend and a robust Node.js and Express.js backend, the application integrates Python scripts (via Node.js spawn) and leverages OpenCV with dlib’s ResNet for accurate face recognition. MongoDB securely stores attendance records, enabling efficient retrieval, and ensuring a streamlined, user-friendly attendance management system.",
+  project_description:[
+    "Developed a full-stack attendance application with automated, real-time face recognition capabilities.",
+    "Built a responsive interface with React.js, providing an intuitive user experience for seamless interaction.",
+    "Created robust backend functionality with Node.js and Express.js, ensuring reliable data processing.",
+    "Used the Node.js spawn module to integrate Python scripts for optimized performance in real-time processing.",
+    "Leveraged OpenCV and dlib’s ResNet model to enable precise, high-accuracy face recognition in real time.",
+    "Employed MongoDB for secure data storage, supporting efficient data retrieval for attendance records.",
+    "Automated processes across technologies to ensure a fully streamlined attendance management system."
+],
   languages_used:"React.js, Node.js, Express, Python, OpenCV, MongoDB ",
   github_src:"https://github.com/kumarchy/FullStack-Attendance-System",
   project_image_url:"./assets/images/attendance system.png"
@@ -78,7 +86,7 @@ export const PROJECT_WORKS=[
 {
   project_no:"02",
   project_type:"FullStack Project",
-  project_description:"School login portal where both parents and students can login with their credentials. Students can access lectures and notes. Parents can see the childrens fee payment status and progress result.",
+  project_description:["School login portal where both parents and students can login with their credentials. Students can access lectures and notes. Parents can see the childrens fee payment status and progress result."],
   languages_used:"HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB",
   github_src:"https://github.com/kumarchy/school-login-portal",
   project_image_url:"./assets/images/school-login-portal.png"
@@ -86,7 +94,7 @@ export const PROJECT_WORKS=[
 {
   project_no:"03",
   project_type:"Frontend Project",
-  project_description:"Beautiful frontend responsive coffee webpage which includes features like Home, About, Menu, Products, Review, Contact, Blogs section.",
+  project_description:["Beautiful frontend responsive coffee webpage which includes features like Home, About, Menu, Products, Review, Contact, Blogs section."],
   languages_used:"HTML, CSS, JavaScript",
   github_src:"https://github.com/kumarchy/coffee-webpage",
   project_image_url:"./assets/images/frontend coffee webpage.png"
@@ -94,7 +102,7 @@ export const PROJECT_WORKS=[
 {
   project_no:"04",
   project_type:"Deep Learning",
-  project_description:"Checkbox detection using deep learning and OpenCV involves training a neural network, often a Convolutional Neural Network (CNN), to identify and classify checkboxes in scanned documents or images",
+  project_description:["Checkbox detection using deep learning and OpenCV involves training a neural network, often a Convolutional Neural Network (CNN), to identify and classify checkboxes in scanned documents or images"],
   languages_used:"python",
   github_src:"https://github.com/kumarchy/checkbox-detection",
   project_image_url:"./assets/images/checkbox_detection.png"
@@ -102,7 +110,7 @@ export const PROJECT_WORKS=[
 {
   project_no:"05",
   project_type:"Machine Learning",
-  project_description:"A movie recommendation system using content-based filtering which suggests movies to users based on their preferences and past interactions.By focusing on the features of the movies the user enjoys, the system delivers personalized recommendations that align with their tastes.",
+  project_description:["A movie recommendation system using content-based filtering which suggests movies to users based on their preferences and past interactions.By focusing on the features of the movies the user enjoys, the system delivers personalized recommendations that align with their tastes."],
   languages_used:"python",
   github_src:"https://github.com/kumarchy/Movie-recommendation-system",
   project_image_url:"./assets/images/movie recommendation system.png"
@@ -110,7 +118,7 @@ export const PROJECT_WORKS=[
 {
   project_no:"06",
   project_type:"Sentiment Analysis",
-  project_description:"Movie sentiment analysis using machine learning which analyzes the user reviews or social media comments to determine the overall sentiment (positive, negative, or neutral) toward a specific movie.",
+  project_description:["Movie sentiment analysis using machine learning which analyzes the user reviews or social media comments to determine the overall sentiment (positive, negative, or neutral) toward a specific movie."],
   languages_used:"python",
   github_src:"https://github.com/kumarchy/sentiment-analysis",
   project_image_url:"./assets/images/sentiment analysis.png"
@@ -118,7 +126,7 @@ export const PROJECT_WORKS=[
 {
   project_no:"07",
   project_type:"Deep Learning",
-  project_description:"Plant disease classification using a CNN model involves training the network to identify and classify various plant diseases from leaf images. The model was trained on a dataset of leaf images, achieving an impressive 98% accuracy on test data, indicating its high effectiveness in diagnosing plant diseases.",
+  project_description:["Plant disease classification using a CNN model involves training the network to identify and classify various plant diseases from leaf images. The model was trained on a dataset of leaf images, achieving an impressive 98% accuracy on test data, indicating its high effectiveness in diagnosing plant diseases."],
   languages_used:"python",
   github_src:"https://github.com/kumarchy/potato-disease-classification",
   project_image_url:"./assets/images/plant_disease_classification.png"
