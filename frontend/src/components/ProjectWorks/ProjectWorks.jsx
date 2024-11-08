@@ -57,7 +57,7 @@ const ProjectWorks = () => {
                     )}
                   </ul>
                   <br />
-                  <h4>{item.languages_used}</h4>
+                  <h4>Tech Stack :   {item.languages_used}</h4>
                   <div className="github">
                     <a
                       href={item.github_src}

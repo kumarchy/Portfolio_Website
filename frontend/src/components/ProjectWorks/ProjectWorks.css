@@ -63,7 +63,7 @@ justify-content: center;
 
 .project-description ul li::marker{
   color: #6751b9;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 
 .project-description H4{
