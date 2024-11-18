@@ -11,11 +11,9 @@ const SkillsInfoCard = () => {
      <div className='main-container'>
      {SKILLS.map((item, index)=>(
       <div className='skill-container' key={index}>
-        <div className='skill-text'>
-        <span>{item.title}</span>
+        {/* <div className='skill-text'> */}
         <img src={item.img_url} alt="" />
-        </div>
-        <p className='description'>{item.description}</p>
+        {/* </div> */}
       </div>
     ))}
     </div>

@@ -1,47 +1,38 @@
 export const SKILLS=[
   {
     title:"JavaScript",
-    description:"JavaScript is my bread and butter. I've been working with it for over 2 years and have built multiple projects.",
     img_url:"./assets/images/javascript_icon.png"
   },
   {
     title:"HTML",
-    description:"HTML is the foundation of every web project I work on. I have deep understanding of its structure and semantics, ensuring my web applications are well-structured and accessible.",
     img_url:"./assets/images/html_icon.png"
   },
   {
     title:"CSS",
-    description:"CSS is crucial to making websites visually appealing and responsive. I've mastered various techniques, from Flexbox and Grid to animations and media queries, ensuring that every project I work on is optimized for all devices and looks aesthetically pleasing.",
     img_url:"./assets/images/css_icon.png"
   },
   {
     title:"React JS",
-    description:"I'm deeply passionate about React.js and have been using it extensively in every projects. I've built multiple projects including school login portal, e-dashboards",
     img_url:"./assets/images/react_icon.png"
   },
   {
     title:"Node JS",
-    description:"Node.js is my go-to choice for building scalable and efficient server-side applications. Withits event-driven architecture and extensive ecosystem, I've built RESTful APIs and more",
     img_url:"./assets/images/nodejs_icon.png"
   },
   {
     title:"MongoDB",
-    description:"MongoDB's flexible document-based structure and scalibility make it an ideal choice for storing and managing data in modern web applications. I've used MongoDB extensively in projects.",
     img_url:"./assets/images/mongodb_icon.webp"
   },
   {
     title:"Bootstrap",
-    description:"Bootstrap, a popular CSS framework, simplifies responsive web design with its pre-built components and grid system. I've leveraged Bootstrap in projects to create clean, mobile-friendly interfaces quickly and efficiently.",
     img_url:"https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"
   },
   {
     title:"Machine Learning",
-    description:"Machine learning is a powerful tool for analyzing data, making predictions, and automating decision-making. I've applied machine learning in various projects to enhance predictive models and improve overall system intelligence.",
     img_url:"https://cdn-icons-png.flaticon.com/512/8757/8757996.png"
   },
   {
     title:"Deep Learning",
-    description:"Deep learning, a subset of machine learning, excels at processing large datasets and uncovering intricate patterns. I've utilized deep learning in projects to develop sophisticated models for tasks like image recognition and image classification.",
     img_url:"https://freesvg.org/img/1541102451.png"
   }
 ]
