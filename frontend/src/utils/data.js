@@ -34,10 +34,25 @@ export const SKILLS = [
     img_url: "./assets/images/docker_icon.png",
   },
   {
-    img_url: "./assets/images/git_icon.png",
+    img_url: "./assets/images/git_icon.svg",
   },
   {
     img_url: "./assets/images/clerk_icon.png",
+  },
+  {
+    img_url: "./assets/images/c_icon.svg",
+  },
+  {
+    img_url: "./assets/images/python_icon.png",
+  },
+  {
+    img_url: "./assets/images/java_icon.svg",
+  },
+  {
+    img_url: "./assets/images/tailwind_icon.png",
+  },
+  {
+    img_url: "./assets/images/figma_icon.svg",
   },
 ];
 
