@@ -43,14 +43,14 @@ function App() {
         <div>
           <Resume />
         </div>
-        <div ref={skillsRef}>
-          <SkillsInfoCard />
-        </div>
         <div ref={workRef}>
           <WorkExperiences />
         </div>
         <div ref={projectRef}>
           <ProjectWorks />
+        </div>
+        <div ref={skillsRef}>
+          <SkillsInfoCard />
         </div>
         <div ref={aboutRef}>
           <About />

@@ -100,7 +100,7 @@ justify-content: center;
   border: 1.5px solid #6751b9;
   background: #130f2a;
   position: absolute;
-  top: 61.5%;
+  top: 45%;
   z-index: 2;
   cursor: pointer;
 }
@@ -123,12 +123,12 @@ justify-content: center;
 
   .arrow-left-project{
     left: 0rem;
-    top: 65%;
+    top: 40%;
   }
 
   .arrow-right-project{
     right: 0rem;
-    top: 65%;
+    top: 40%;
   }
 }
 
@@ -148,14 +148,13 @@ justify-content: center;
   }
   .arrow-left-project,
   .arrow-right-project{
-  top: 54.5%;
+  top:35%;
 }
 }
 
 @media(max-width:600px){
   .arrow-left-project,
   .arrow-right-project{
-  top:58.5%;
 }
 
 .projects{
@@ -171,7 +170,7 @@ justify-content: center;
 @media(max-width:426px){
   .arrow-left-project,
   .arrow-right-project{
-  top:57.6%;
+  top:35%;
 }
 }
 
