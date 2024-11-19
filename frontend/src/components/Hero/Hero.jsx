@@ -14,7 +14,7 @@ const Hero = () => {
 
     <div className='hero-img'>
       <div className='myPic'>
-      <img src="./assets/images/profile_img.jpg" alt="" />
+      <img src="./assets/images/profile_image.jpeg" alt="" />
       </div>
     </div>
     </section>
