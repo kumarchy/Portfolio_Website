@@ -55,7 +55,7 @@ export const SKILLS = [
     img_url: "./assets/images/figma_icon.svg",
   },
   {
-    img_url: "./assets/images/shadcn_icon.svg",
+    img_url: "./assets/images/shadCN_icon.png",
   },
 ];
 
