@@ -49,7 +49,7 @@ export const SKILLS = [
     img_url: "./assets/images/java_icon.svg",
   },
   {
-    img_url: "./assets/images/tailwind_icon.png",
+    img_url: "./assets/images/tailwindcss_icon.png",
   },
   {
     img_url: "./assets/images/figma_icon.svg",
