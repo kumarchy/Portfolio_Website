@@ -55,6 +55,9 @@ Check out the live version of my portfolio  https://portfolio-website-8bkv.onren
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/ef5b7cab-1262-495e-8e54-041fa920a80e)
+![image](https://github.com/kumarchy/Portfolio_Website/blob/main/Screenshot%20From%202025-03-31%2018-36-30.png?raw=true
+)
+
 
 ## Getting Started
 
